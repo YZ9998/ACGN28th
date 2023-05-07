@@ -21,14 +21,14 @@
 }   
 }
 .wrap h3{
-    font-size:25px;
+    font-size:30px;
 }
 .wrap summary{
-    font-size: 20px;
+    font-size: 40px;
     
 }
 .wrap p{
-    font-size: 20px;
+    font-size: 30px;
 }
 .top_back{
     position:fixed;
