@@ -1,6 +1,6 @@
 
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:1000px){/*手機*/
 .e1 img{
     width: 100%;
     margin-bottom: 20px;
@@ -16,12 +16,15 @@
     font-size: 30px;
 }
 .wrap img{
-
+    width="100%";
     margin-top: 0;
 }   
 }
 .wrap h3{
     font-size:30px;
+}
+.wrap img{
+    width="20%";
 }
 .wrap summary{
     font-size: 40px;
