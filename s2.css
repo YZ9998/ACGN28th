@@ -20,6 +20,16 @@
     margin-top: 0;
 }   
 }
+.wrap h3{
+    font-size:25px;
+}
+.wrap summary{
+    font-size: 20px;
+    
+}
+.wrap p{
+    font-size: 20px;
+}
 .top_back{
     position:fixed;
     bottom: 20px;
