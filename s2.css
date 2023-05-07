@@ -16,10 +16,11 @@
     font-size: 30px;
 }
 .wrap img{
-    width:240px;
+    width:100%;
     margin-top: 0;
 }   
 }
+
 .wrap h3{
     font-size:30px;
 }
