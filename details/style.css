@@ -1,0 +1,42 @@
+@media screen and (max-width:1000px){
+.wrap{
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    padding: 0;
+    font-size: xx-large;
+    
+}
+.wrap img{
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.h1{
+    font-size: large;
+    font-weight: 700;
+}
+.rr{
+    font-size: xx-large;
+}
+.top_back{
+    font-size: xx-large;
+}
+
+}
+@media screen and (min-width:1000px){
+.wrap img{
+    width:50%;
+    height: auto;
+}
+}
+.top_back{
+    position:fixed;
+    bottom: 20px;
+    right: 20px;
+    font-family: 'Noto Sans TC'
+    }
+.wrap a{
+    text-decoration: none;
+}
+    
