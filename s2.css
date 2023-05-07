@@ -1,0 +1,28 @@
+
+
+@media screen and (max-width:1000px){
+.e1 img{
+    width: 100%;
+    margin-bottom: 20px;
+} 
+.wrap h3{
+    font-size:35px;
+}
+.wrap summary{
+    font-size: 30px;
+    
+}
+.wrap p{
+    font-size: 30px;
+}
+.wrap img{
+
+    margin-top: 0;
+}   
+}
+.top_back{
+    position:fixed;
+    bottom: 20px;
+    right: 20px;
+    font-family: 'Noto Sans TC'
+    }

@@ -1,0 +1,63 @@
+.b{
+    background-color: #436DBF; /* 设置背景颜色 */
+    color: white; /* 设置文本颜色 */
+    padding: 10px 20px; /* 设置内边距 */
+    text-align: center; /* 设置文本居中 */
+    font-size: 16px; /* 设置字体大小 */
+    margin: 10px 2px; /* 设置外边距 */
+    border-radius: 8px; /* 添加圆角效果 */
+    border-color: white;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    margin-top:40%;     
+}
+.b a{
+  text-decoration: none;
+}
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 2.5s ease-in-out;
+  }
+  .fade-in.show {
+    opacity: 1;
+  }
+
+  .t{
+    text-align: center;
+    font-family:"SimSun";
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    
+  }
+@media screen and (max-width:1000px){
+  .t{
+    text-align: center;
+    font-family:"SimSun";
+    font-size: 160px;
+    position: absolute;
+    top: 30%;
+    background-color: #f1f1f1;
+  }
+  .b{
+    background-color: #436DBF; /* 设置背景颜色 */
+    color: white; /* 设置文本颜色 */
+    padding: 10px 20px; /* 设置内边距 */
+    text-align: center; /* 设置文本居中 */
+    font-size: 30px; /* 设置字体大小 */
+    margin: 10px 2px; /* 设置外边距 */
+    border-radius: 8px; /* 添加圆角效果 */
+    border-color: white;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    position: fixed;
+    top:40%;
+        
+}
+  
+}
