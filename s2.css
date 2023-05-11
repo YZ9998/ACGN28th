@@ -38,4 +38,20 @@
     right: 20px;
     font-family: 'Noto Sans TC'
     }
-
+#myDiv {
+    position: fixed;
+    width: fit-content;
+    height: 100px;
+  }
+.cool{
+  color:#FCF7E3;
+  border:1px solid;
+  
+ 
+}
+.cool:hover{
+  color:blue;
+}
+.cool:focus-within{
+  color:blue;
+}
