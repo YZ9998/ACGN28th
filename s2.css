@@ -43,6 +43,8 @@
     height: 100px;
     color:#FCF7E3;
     border:1px solid;
+    width:fit-content;
+    height:fit-content;
   }
 
 #myDiv:hover{
