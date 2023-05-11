@@ -10,3 +10,4 @@
   const myDiv = document.getElementById("myDiv");
   myDiv.style.top = randomTop + "px";
   myDiv.style.left = randomLeft + "px";
+//靠北為甚麼不能上傳氣死
