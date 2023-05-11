@@ -43,12 +43,11 @@
     width: fit-content;
     height: 100px;
   }
-  .cool{
+.cool{
   color:#FCF7E3;
   border:1px solid;
-  
- 
 }
+
 .cool:hover{
   color:blue;
 }
