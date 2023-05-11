@@ -42,16 +42,13 @@
     position: fixed;
     width: fit-content;
     height: 100px;
+    color:#FCF7E3;
+    border:1px solid;
   }
-.cool{
-  color:#FCF7E3;
-  border:1px solid;
-  
- 
-}
-.cool:hover{
+
+#myDiv:hover{
   color:blue;
 }
-.cool:focus-within{
+#myDiv:focus-within{
   color:blue;
 }
