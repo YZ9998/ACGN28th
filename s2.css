@@ -40,7 +40,6 @@
     }
 #myDiv {
     position: fixed;
-    width: fit-content;
     height: 100px;
     color:#FCF7E3;
     border:1px solid;
