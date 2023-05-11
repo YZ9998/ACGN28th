@@ -52,4 +52,5 @@
 }
 #myDiv:focus-within{
   color:blue;
+  background-color: white;
 }
